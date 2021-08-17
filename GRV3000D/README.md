@@ -17,7 +17,8 @@ COM4 - /dev/ttyS3
 COM5 - /dev/ttyS4
 
 
-And setup the COM port for LOAD and RUN in core_portme.mak
+And setup the COM port for LOAD and RUN in core_portme.mak.
+
 Please also install pyserial under Cygwin pip3 install pyserial
 
 # Clean
